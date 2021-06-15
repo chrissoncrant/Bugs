@@ -12,9 +12,9 @@ https://github.com/chrissoncrant
 
 ## Special Thanks
 
-Thanks to Thinkful prep course for the Engineering Immersion program for guiding me through the steps of getting me started here!
+Thanks to the Thinkful prep course for the Engineering Immersion program which helped guide me through the steps of getting started here!
 
-Thank you 0's and 1's for all the hard work you do to make all this madness happen!
+Thank you to all you 0's and 1's for all the hard work you do to make all this madness happen!
 
 
 

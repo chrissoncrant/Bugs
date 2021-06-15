@@ -8,7 +8,7 @@ Here's a link to check it out: https://chrissoncrant.github.io/Bugs/
 
 Starting out on the exciting journey of learning to code. I am excited where this will take me and all that I will encounter along the way, good and bad. 
 
-https://github.com/chrissoncrant
+My profile: https://github.com/chrissoncrant
 
 ## Special Thanks
 

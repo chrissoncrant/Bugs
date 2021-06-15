@@ -1,0 +1,50 @@
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(212, 209, 209);
+    margin: 0% 0% 5% 0%;
+}
+
+body {
+    background-color: rgb(182, 211, 171);
+}
+
+section {
+    width: 50%;
+    margin: 5% 25%;
+    border: 2px white solid;
+}
+
+/* Image related */
+
+.images {
+    width: 40%;
+    margin: 0% 30%;
+}
+
+img {
+    width: 100%;
+    border: 2px green solid;
+}
+
+/* List related */
+
+.why-div {
+    width: 40%;
+    margin: 5% 30%;
+    /*border: 2px black solid;*/
+}
+
+.why-div h3 {
+    text-align: center;
+    /*border: 3px black solid;*/
+    width: 100%;
+}
+
+ul {
+    line-height: 35px;
+}
